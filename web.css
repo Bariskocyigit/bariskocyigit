@@ -1,4 +1,5 @@
  
+   
    #p{
     
     list-style: none;
@@ -108,7 +109,7 @@
       margin: auto;}
 
     #kzy{
-      width:  75%;
+      width:  auto;
     }
 
     #f1{ 
@@ -170,9 +171,5 @@
     color: #fff;
 }
 
-      
-
-
-
-      
+   
 
