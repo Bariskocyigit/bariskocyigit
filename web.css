@@ -1,4 +1,5 @@
-  #p{
+ 
+   #p{
     
     list-style: none;
     margin: 0;
@@ -87,16 +88,15 @@
 
     #c{
       border: 15px solid rgb(62, 39, 104);
-
-        width:  55%;
-      height: 50%;
+      width:  75%;
+      height: 55%;
+      
       margin: auto;}
 
-    #mkl {
-     
-    }
-    #c{ width:  75%;
-      height: 55%;}
+      #mkl {
+        width: 75%;
+        margin: auto;
+      }
 
   
 
@@ -131,7 +131,7 @@
     #f2{
 
       width:  75%;
-      height:  35%;
+      height: auto;
       margin: auto;}
 
     #de{
@@ -169,6 +169,10 @@
     background: #19C589;
     color: #fff;
 }
+
+      
+
+
 
       
 
